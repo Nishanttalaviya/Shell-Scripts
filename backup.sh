@@ -1,4 +1,9 @@
 #!/bin/bash
+<<help
+this is shell script to take backup
+can be used with cron
+help
+
 
 <<info
 
